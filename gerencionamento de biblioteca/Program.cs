@@ -58,7 +58,7 @@ public class Program
         Console.Write("Quantidade (máx. 3): ");
         int quantidade = int.Parse(Console.ReadLine());
 
-        // Verifica se a quantidade é maior que 3
+        
         if (quantidade > 3)
         {
             Console.WriteLine("Erro: A quantidade não pode ser maior que 3.");
