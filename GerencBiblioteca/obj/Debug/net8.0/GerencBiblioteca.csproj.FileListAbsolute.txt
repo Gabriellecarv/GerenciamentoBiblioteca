@@ -1,0 +1,15 @@
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\GerenciamentoBiblioteca\GerencBiblioteca\bin\Debug\net8.0\GerencBiblioteca.exe
+C:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\GerenciamentoBiblioteca\GerencBiblioteca\bin\Debug\net8.0\GerencBiblioteca.deps.json
+C:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\GerenciamentoBiblioteca\GerencBiblioteca\bin\Debug\net8.0\GerencBiblioteca.runtimeconfig.json
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\GerenciamentoBiblioteca\GerencBiblioteca\bin\Debug\net8.0\GerencBiblioteca.dll
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\GerenciamentoBiblioteca\GerencBiblioteca\bin\Debug\net8.0\GerencBiblioteca.pdb
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\GerenciamentoBiblioteca\GerencBiblioteca\obj\Debug\net8.0\GerencBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\GerenciamentoBiblioteca\GerencBiblioteca\obj\Debug\net8.0\GerencBiblioteca.AssemblyInfoInputs.cache
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\GerenciamentoBiblioteca\GerencBiblioteca\obj\Debug\net8.0\GerencBiblioteca.AssemblyInfo.cs
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\GerenciamentoBiblioteca\GerencBiblioteca\obj\Debug\net8.0\GerencBiblioteca.csproj.CoreCompileInputs.cache
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\GerenciamentoBiblioteca\GerencBiblioteca\obj\Debug\net8.0\GerencBiblioteca.sourcelink.json
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\GerenciamentoBiblioteca\GerencBiblioteca\obj\Debug\net8.0\GerencBiblioteca.dll
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\GerenciamentoBiblioteca\GerencBiblioteca\obj\Debug\net8.0\refint\GerencBiblioteca.dll
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\GerenciamentoBiblioteca\GerencBiblioteca\obj\Debug\net8.0\GerencBiblioteca.pdb
+C:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\GerenciamentoBiblioteca\GerencBiblioteca\obj\Debug\net8.0\GerencBiblioteca.genruntimeconfig.cache
+C:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\GerenciamentoBiblioteca\GerencBiblioteca\obj\Debug\net8.0\ref\GerencBiblioteca.dll
